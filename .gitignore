@@ -1,0 +1,14 @@
+*.github
+ChatAD/eval/*.json
+ChatAD/data/ts*
+
+EasyR1/eval/*.json
+
+EasyR1/wandb/
+
+EasyR1/verl.egg-info
+
+
+EasyR1/eval/*.json
+
+*.parquet
